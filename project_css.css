@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow&display=swap');
+body {
+    font: normal, 20px, Barlow;
+    font-size: 20px;
+    color: SandyBrown; 
+    background-color: RosyBrown;
+}
+table {
+    color: slateblue;
+    border: 5px solid aquamarine;
+    padding: 15px;
+}
+.photo{
+    margin: 0 10px 0 0; /* Отступы */
+    padding: 10px 0; /* Поля сверху и снизу + справа и слева*/
+    text-align: center;
+    font-size: 30px;
+    display: inline-block;
+}
+h1{
+    text-align: center;
+}
+.text{
+    font-size: 25px;
+    font-style: italic;
+}
