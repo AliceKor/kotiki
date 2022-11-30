@@ -11,7 +11,10 @@ a{
     color: lightgreen;
     
 }
-
+.photokrai{
+    max-width: 95%;
+    text-align: center;
+}
 
 .photo{
     
