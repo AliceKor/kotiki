@@ -22,9 +22,6 @@ main{
     display: flex; 
     margin-left: 35%;
     margin-right: 30%;
-    
-}
-.photo{
     width: 25%;
     min-width: 20px;
     height: auto;
