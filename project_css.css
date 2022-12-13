@@ -28,6 +28,7 @@ main{
     width: 25%;
     min-width: 20px;
     height: auto;
+    max-width: 30px;
 }
 
 .ob{
