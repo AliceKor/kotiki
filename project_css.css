@@ -25,9 +25,9 @@ main{
 }
 .photo{
     width: 25%;
-    min-width: 80px;
+    min-width: 100px;
     height: auto;
-    max-width: 120px;
+    max-width: 150px;
 }
 
 .ob{
